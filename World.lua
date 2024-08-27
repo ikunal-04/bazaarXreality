@@ -9,7 +9,7 @@ RealityInfo = {
 RealityParameters = {
     ['2D-Tile-0'] = {
         Version = 0,
-        Spawn = { 14, 49 },
+        Spawn = { 17, 49 },
         -- This is a tileset themed to Llama Land main island
         Tileset = {
             Type = 'Fixed',
@@ -138,7 +138,7 @@ RealityEntitiesStatic = {
                 Type = 'Warp',
                 Size = { 2, 3 },
                 -- Position = { 25, 18 },
-                Target = "kCFbf0D5qd98kUQax-l8q4KFrKMlDDxBYs9EjdL-Nmo",
+                Target = "5OS0KUNpgAfeAyPViK_VC_Y7Y2TxAujxihwY254hrzQ",
             },
         }
     },
@@ -152,8 +152,8 @@ RealityEntitiesStatic = {
             Interaction = {
                 Type = 'Warp',
                 Size = { 2, 3 },
-                -- Position = { 25, 18 },
-                Target = "kCFbf0D5qd98kUQax-l8q4KFrKMlDDxBYs9EjdL-Nmo",
+                Position = { 25, 18 },
+                Target = "5OS0KUNpgAfeAyPViK_VC_Y7Y2TxAujxihwY254hrzQ",
             },
         }
     },
@@ -168,7 +168,22 @@ RealityEntitiesStatic = {
                 Type = 'Warp',
                 Size = { 2, 3 },
                 -- Position = { 25, 18 },
-                Target = "kCFbf0D5qd98kUQax-l8q4KFrKMlDDxBYs9EjdL-Nmo",
+                Target = "5OS0KUNpgAfeAyPViK_VC_Y7Y2TxAujxihwY254hrzQ",
+            },
+        }
+    },
+    ['WarpToEntrance'] = {
+        Position = {15, 49 },
+        Type = 'Hidden',
+        Metadata = {
+            -- SpriteTxId = '0WFjH89wzK8XAA1aLPzBBEUQ1uKpQe9Oz_pj8x1Wxpc',
+            -- SpriteTxId = 'jXfJFUiFG4ojMg9YIgvxTefcvntW2GiBWw4kaow8poo',
+            -- SpriteTxId = 'gGzwitPXKg_Z-jBAwzzpYt947TCmZin9o7-d6LYgClA',
+            Interaction = {
+                Type = 'Warp',
+                Size = { 2, 3 },
+                -- Position = { 25, 18 },
+                Target = "vlfHBk8angJO6E3CsaRpqFSvlNd_rwMQfQp1-gqjU3E",
             },
         }
     },
@@ -190,10 +205,58 @@ RealityEntitiesStatic = {
         Type = 'Avatar',
         Metadata = {
             DisplayName = '0rbit Dumdumz',
-            SkinNumber = 6,
+            SkinNumber = 5,
             Interaction = {
                 Type = 'SchemaForm',
                 Id = 'Orbit'
+            },
+        },
+    },
+    ['1jz6FvLP3GGocDi1mjj3iuB6VFi0dUBokNnMjgwM_50'] = {
+        Position = { 31, 47.25 },
+        Type = 'Avatar',
+        Metadata = {
+            DisplayName = 'Bloooobs Llama',
+            SkinNumber = 5,
+            Interaction = {
+                Type = 'SchemaForm',
+                Id = 'Bloobs'
+            },
+        },
+    },
+    ['QbPtYOaQX3cqIWK0-6lc7d5WOnK4yfLJgz0s9EguH_I'] = {
+        Position = { 38, 47.25 },
+        Type = 'Avatar',
+        Metadata = {
+            DisplayName = 'Pixel Llama',
+            SkinNumber = 5,
+            Interaction = {
+                Type = 'SchemaForm',
+                Id = 'Pixel'
+            },
+        },
+    },
+    ['BvfvFHkVLQHiePeZiGUgYMiI2HsXXjkL0z_nQ9rchHY'] = {
+        Position = { 49, 47.25 },
+        Type = 'Avatar',
+        Metadata = {
+            DisplayName = 'Pixel Llama',
+            SkinNumber = 5,
+            Interaction = {
+                Type = 'SchemaForm',
+                Id = 'AOphant'
+            },
+        },
+    },
+    ['mdb3oWQM78UMaUoHN0BsSfNI0mCbaeX5iuEfWrNtuKg'] = {
+        Position = { 44.5, 51.5 },
+        Type = 'Avatar',
+        Metadata = {
+            DisplayName = 'Info Llama',
+            SkinNumber = 5,
+            Interaction = {
+                Type = 'SchemaForm',
+                Id = 'Info'
             },
         },
     },

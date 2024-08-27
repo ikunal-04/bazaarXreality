@@ -11,9 +11,9 @@ Handlers.add(
             Target = msg.From,
             Tags = { Type = 'Schema' },
             Data =  json.encode({
-                Bloobs = {
-                    Title = "Bloobs Llama",
-                    Description = 'This is the bloooobs llama, you can see the bloobs here. You can also trade the bloobs on the BazaAr. You can also get the bloobs from the BazaAr. You can also trade the bloobs on the BazaAr.',
+                Pixel = {
+                    Title = "Pixel Llama",
+                    Description = 'This is the pixel llama, you can see the pixel here. You can also trade the pixel on the BazaAr. You can also get the pixel from the BazaAr. You can also trade the pixel on the BazaAr.',
                 }
             })
         })
