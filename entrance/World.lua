@@ -24,6 +24,13 @@ RealityParameters = {
             -- Since we are already setting the spawn in the middle, we don't need this
             -- Offset = { -10, -10 },
         },
+        ['Audio-0'] = {
+            Bgm = {
+                Type = 'Fixed',
+                Format = 'WEBM',
+                TxId = '59_JWuZ_aa3UPmZ9jEEILAe5_61EzieN0rFLHUw-ra8',
+            }
+        }
     },
     ['Audio-0'] = {
         Bgm = {

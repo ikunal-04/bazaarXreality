@@ -29,7 +29,7 @@ RealityParameters = {
         Bgm = {
             Type = 'Fixed',
             Format = 'WEBM',
-            TxId = '59_JWuZ_aa3UPmZ9jEEILAe5_61EzieN0rFLHUw-ra8',
+            TxId = 'XAGMTysIgodO6NbIhvr3YoPp5QPXQ3heeCuxAuUhTIs',
         }
     }
 }
