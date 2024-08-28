@@ -13,7 +13,7 @@ Handlers.add(
             Data =  json.encode({
                 Bloobs = {
                     Title = "Bloobs Llama",
-                    Description = 'This is the bloooobs llama, you can see the bloobs here. You can also trade the bloobs on the BazaAr. You can also get the bloobs from the BazaAr. You can also trade the bloobs on the BazaAr.',
+                    Description = 'This is the Blooobs asset collection. You can find more information about it on the bazaar (https://ao-bazar.arweave.net/#/collection/GXuJXNHETvHV9GzuQuzaF1HidQJdkOGbCJpSwhwVbs4/assets/) and can trade it.',
                 }
             })
         })

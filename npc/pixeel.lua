@@ -13,7 +13,7 @@ Handlers.add(
             Data =  json.encode({
                 Pixel = {
                     Title = "Pixel Llama",
-                    Description = 'This is the pixel llama, you can see the pixel here. You can also trade the pixel on the BazaAr. You can also get the pixel from the BazaAr. You can also trade the pixel on the BazaAr.',
+                    Description = 'This is the Pixel XiYou asset collection. You can find more information about it on the bazaar (https://ao-bazar.arweave.net/#/collection/FSQ1tVuLpy5AQYyO0AeoHJK1tLqEY6m51kbUEoetIE0/assets/) and can trade it.',
                 }
             })
         })

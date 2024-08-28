@@ -12,8 +12,8 @@ Handlers.add(
             Tags = { Type = 'Schema' },
             Data =  json.encode({
                 Aophant = {
-                    Title = "Goat Llama",
-                    Description = 'This is the goat llama, you can see the goat here. You can also trade the goat on the BazaAr. You can also get the goat from the BazaAr. You can also trade the goat on the BazaAr.',
+                    Title = "Eleet Llama",
+                    Description = 'This is the Eleet Hacker Group asset collection. You can find more information about it on the bazaar (https://ao-bazar.arweave.net/#/collection/4FOMQ_pburTkSrUDanlLt_aJJ91VWaaQw15hObcxaKY) and can trade it.',
                 }
             })
         })

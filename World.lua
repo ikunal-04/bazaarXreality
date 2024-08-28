@@ -240,11 +240,11 @@ RealityEntitiesStatic = {
         Position = { 49, 47.25 },
         Type = 'Avatar',
         Metadata = {
-            DisplayName = 'Pixel Llama',
+            DisplayName = 'Eleet Hacker Group Llama',
             SkinNumber = 5,
             Interaction = {
                 Type = 'SchemaForm',
-                Id = 'AOphant'
+                Id = 'Aophant'
             },
         },
     },
